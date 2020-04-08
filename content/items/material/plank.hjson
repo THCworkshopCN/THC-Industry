@@ -1,0 +1,8 @@
+{
+  type: material
+  name: Plank
+  descrption: A big piece of plank.Many junior things need it.
+  color: AE895EFF
+  flammability: 0.4
+  radioactivity: 0
+}

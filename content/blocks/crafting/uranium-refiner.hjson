@@ -1,0 +1,34 @@
+{
+  type: GenericCrafter
+  name: Uranium refiner
+  description: This factory refines uranium to let it be more useful.
+  health: 120
+  size: 2
+  requirements:
+  [
+    steel/25
+    lead/30
+    graphite/30
+    refined-iron/10
+    solid-concrete/30
+  ]
+  consumes: {
+   items: {
+    items: [
+      depleted-uranium/3
+    ]
+    optional: false
+    booster: false
+   }
+   power: {
+    usage: 1
+    buffered: false
+   }
+  }
+  craftTime: 90
+  outputItem: uranium-238/1
+  hasItems: true
+  category: crafting
+  research: steelworks
+  buildCostMultiplier: 1.1
+}

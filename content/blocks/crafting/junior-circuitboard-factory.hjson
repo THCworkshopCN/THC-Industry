@@ -1,0 +1,37 @@
+{
+  type: GenericCrafter
+  name: Junior circuitboard factory
+  description: Makes junior circuitboard.
+  health: 120
+  size: 2
+  requirements:
+  [
+    plank/10
+    copper/10
+    lead/30
+    graphite/30
+    silicon/5
+    refined-iron/10
+  ]
+  consumes:
+  {
+   items: {
+    items: [
+      copper/2
+      silicon/1
+    ]
+    optional: false
+    booster: false
+   }
+   power: {
+    usage: 0.5
+    buffered: false
+   }
+  }
+  craftTime: 90
+  outputItem: junior-circuitboard/1
+  hasItems: true
+  category: crafting
+  research: iron-refiner
+  buildCostMultiplier: 0.9
+}

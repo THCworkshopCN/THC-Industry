@@ -1,0 +1,32 @@
+{
+ type: NuclearReactor
+ name: Uranium reactor
+ description: A small uranium reactor,explodes if there is not enough cryofluid.Provides more power than thorium reactor.
+ size: 3
+ heating: 0.02
+ explosionDamage: 2000
+ powerProduction: 66
+ requirements: [
+  steel/75
+  lead/120
+  graphite/35
+  silicon/50
+  solid-concrete/250
+ ]
+ itemDuration: 240
+ consumes: {
+   items: {
+    items: [
+      uranium-fuel-rod/1
+    ]
+    optional:false
+    booster:false
+   }
+   liquid: cryofluid/0.1
+ }
+ health: 500
+ category: power
+ research: thorium-reactor
+ hasItems: true
+ buildCostMultiplier: 0.9
+}

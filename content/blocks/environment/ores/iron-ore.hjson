@@ -1,0 +1,8 @@
+{
+  type: OreBlock
+  name: Iron ore
+  description: Iron ore,father of morden world.
+  itemDrop: iron
+  oreScale: 20
+  oreThreshold: 0.5
+}

@@ -1,0 +1,7 @@
+{
+  name: Uranium fuel rod
+  descrption: Uranium fuel for reactors.High radioactivity.KEEP IT CAREFULLY.
+  radioactivity: 1.2
+  cost: 3
+  color: 4682B4
+}
