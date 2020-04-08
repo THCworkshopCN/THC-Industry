@@ -1,7 +1,7 @@
 {
   type: GenericCrafter
   name: Junior circuitboard factory
-  description: Makes junior circuitboard.
+  description: Makes junior circuitboards.
   health: 120
   size: 2
   requirements:

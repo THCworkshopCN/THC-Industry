@@ -1,7 +1,7 @@
 {
   type: GenericSmelter
   name: Middle rank circuitboard factory
-  description: Makes middle rank circuitboard which bases on junior circuitboard.
+  description: Makes middle rank circuitboards which base on junior circuitboard.
   health: 150
   size: 2
   requirements:
