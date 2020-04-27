@@ -1,7 +1,7 @@
 {
  type: CoreBlock
  name: Outpost
- description: The outposts can collect the resources and transfer them to the core,but cannot get resource from the core.Send warns when under attack.
+ description: A outpost which can collect the resources and transfer them to the core,but cannot get resource from the core.Send warns when under attack.
  size: 2
  destructible: true
  solid: true
