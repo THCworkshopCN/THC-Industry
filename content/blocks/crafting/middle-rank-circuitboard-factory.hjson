@@ -2,8 +2,8 @@
   type: GenericSmelter
   name: Middle rank circuitboard factory
   description: Makes middle rank circuitboards which base on junior circuitboard.
-  health: 150
-  size: 2
+  health: 75
+  size: 3
   requirements:
   [
     plank/5
@@ -29,11 +29,11 @@
     buffered: false
    }
   }
-  craftTime: 45
+  craftTime: 120
   outputItem: middle-rank-circuitboard/1
   hasItems: true
   flameColor: FFEB89FF
   category: crafting
   research: junior-circuitboard-factory
-  buildCostMultiplier: 0.92
+  buildCostMultiplier: 1
 }
