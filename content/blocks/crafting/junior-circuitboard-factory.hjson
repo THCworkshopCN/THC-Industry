@@ -33,5 +33,5 @@
   hasItems: true
   category: crafting
   research: iron-refiner
-  buildCostMultiplier: 0.9
+  buildCostMultiplier: 1
 }
