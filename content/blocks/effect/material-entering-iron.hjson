@@ -22,7 +22,7 @@
      ]
     }
   }
-  craftTime: 10
+  craftTime: 1
   outputItem: quantum-state-iron/1
   hasLiquid: false
   hasItems: true
