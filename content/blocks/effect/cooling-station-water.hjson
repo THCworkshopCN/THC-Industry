@@ -1,0 +1,28 @@
+{
+  type: GenericCrafter
+  name: Cooling station-Water
+  description: Enter water here for high-leveled factories.
+  health: 70
+  size: 2
+  requirements:
+  [
+    junior-curcuitboard/5
+    graphite/20
+    steel/5
+    solid-concrete/30
+  ]
+  consumes: {
+    power: {
+     usage: 0.1
+     buffered: false
+    }
+    liquid: water/0.1
+  }
+  craftTime: 1
+  outputItem: quantum-state-water/1
+  hasLiquid: false
+  hasItems: true
+  category: effect
+  research: steelworks
+  buildCostMultiplier: 0.8
+}
