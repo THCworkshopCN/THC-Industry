@@ -6,7 +6,7 @@
   size: 2
   requirements:
   [
-    junior-curcuitboard/3
+    junior-circuitboard/3
     graphite/20
     steel/5
     solid-concrete/25
