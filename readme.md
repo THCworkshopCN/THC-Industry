@@ -8,4 +8,6 @@ We need a drawer AT ONCE.There is nobody talking in our working QQ group.We need
 THC Inventors do not have any salary or anything else,we just want to make it,so we make it.
 Please send an e-mail to 2356747603@qq.com to help us.We accept nearly everyone who wanna help us.
 
+Please view dev branch to concentrate on what we are working on.
+
 THC Industry,a industrial company of hope at the end of the world.
