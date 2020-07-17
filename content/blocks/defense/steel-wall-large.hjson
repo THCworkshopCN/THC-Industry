@@ -7,7 +7,7 @@
   requirements:
   [
     steel/24
-    concrete/24
+    solid-concrete/24
   ]
   category: defense
   research: steel-wall
