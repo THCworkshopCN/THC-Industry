@@ -7,7 +7,7 @@
   requirements:
   [
     steel/6
-    concrete/6
+    solid-concrete/6
   ]
   category: defense
   research: thorium-wall
