@@ -11,3 +11,4 @@ Please send an e-mail to 2356747603@qq.com to help us.We accept nearly everyone 
 We will work in dev branch.After we add enough things to THC,we will update the master branch and upload zip file in releases. :)
 
 THC Industry,a industrial company of hope at the end of the world.
+咕咕咕
