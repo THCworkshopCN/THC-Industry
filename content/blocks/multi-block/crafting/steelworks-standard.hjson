@@ -1,0 +1,37 @@
+{
+  type: GenericSmelter
+  name: 标准炼钢厂
+  description: 多方块工厂。可以生产更多的钢铁。\n需要输入水和精炼铁。\n需要提供精炼碳\n这是THC Industry的[red]第一个[orange]多方块工厂[]，由[#66ccff]WinterUnderTheSnow[]于2020.10.28编写。
+  health: 450
+  size: 3
+  requirements:
+  [
+    steel/85
+    copper/200
+    lead/100
+    graphite/80
+    junior-circuitboard/15
+  ]
+  consumes: {
+   items: {
+    items: [
+      quantum-state-water/2
+      refined-iron/1
+      refined-carbon/2
+    ]
+    optional:false
+    booster:false
+   }
+   power: {
+    usage: 1
+    buffered: false
+   }
+  }
+  craftTime: 35
+  outputItem: steel/1
+  hasItems: true
+  flameColor: 5B5B5B
+  category: crafting
+  research: steelworks
+  buildCostMultiplier: 0.9
+}
