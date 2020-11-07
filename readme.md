@@ -12,3 +12,4 @@ We will work in dev branch.After we add enough things to THC,we will update the 
 
 THC Industry,a industrial company of hope at the end of the world.
 咕咕咕
+Nice Try
