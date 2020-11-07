@@ -2,12 +2,13 @@
   type: Wall
   name: Steel wall
   description: A wall made by steel.Very strong.It takes a lot of time to build it.
-  health: 900
+  health: 950
   size: 1
   requirements:
   [
     steel/6
+    solid-concrete/6
   ]
   category: defense
-  research: surge-wall
+  research: thorium-wall
 }

@@ -2,11 +2,12 @@
   type: Wall
   name: Large steel wall
   description: A wall made by steel.Very strong.It takes a lot of time to build it.Spans multiple tiles.
-  health: 4000
+  health: 4200
   size: 2
   requirements:
   [
     steel/24
+    solid-concrete/24
   ]
   category: defense
   research: steel-wall
