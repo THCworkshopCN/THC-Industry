@@ -35,5 +35,5 @@
   reloadMultiplier: 2
  }
  category: turret
- buildCostMultiplier: 2
+ buildCostMultiplier: 1
 }
