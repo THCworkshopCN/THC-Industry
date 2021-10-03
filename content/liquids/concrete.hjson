@@ -1,9 +1,0 @@
-{
-  name: Concrete
-  descrption: Liquid concrte.
-  color: 636363
-  barColor: 636363
-  flammability: 0
-  viscosity: 1.2
-  heatCapacity: 0
-}

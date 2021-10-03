@@ -1,7 +1,0 @@
-{
-  name: Uranium 238
-  descrption: Refined uranium.You can use it to make uranium fuel for reactors.
-  color: 1AEB2DFF
-  radioactivity: 0.4
-  cost: 3
-}

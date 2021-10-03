@@ -1,8 +1,0 @@
-{
-  type: OreBlock
-  name: Depleted uranium ore
-  description: Uranium ore.
-  itemDrop: depleted-uranium
-  oreScale: 10
-  oreThreshold: 0.3
-}
