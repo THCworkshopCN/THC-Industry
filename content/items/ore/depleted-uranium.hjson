@@ -1,0 +1,9 @@
+{
+  name: Depleted uranium
+  descrption: Uranium.Dr.Xie notices us to keep it carefully.
+  color: 66CDAA
+  radioactivity: 0.1
+  cost: 1
+  hardness: 7
+  playerUnmineable: true
+}

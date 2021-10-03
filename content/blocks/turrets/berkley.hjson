@@ -1,0 +1,39 @@
+{
+ type: PowerTurret
+ name: Berkley
+ description: Shoot two quick energy balls into the air and cause a little damage.Maybe you can use something to let its cooldown faster.Invented by Berkley corp.
+ size: 1
+ powerUse: 0.75
+ health: 105
+ heatColor: FFA07A
+ research: arc
+ requirements: [
+  plank/8
+  refined-iron/12
+  graphite/8
+  silicon/5
+ ]
+ rotatespeed: 20
+ reload: 24
+ range: 80
+ shootType: {
+  type: BasicBulletType
+  bulletSprite: thc-industry-energy-ball
+  lifetime: 20
+  shots: 2
+  speed: 9
+  damage: 25
+  recoil: 0
+  knockback: 0
+  status: shocked
+  statusDuration: 120
+  splashDamage: 10
+  splashDamageRadius: -3
+  frontColor: 98F5FF
+  backColor: 94F5FF
+  shootSound: thruster
+  reloadMultiplier: 2
+ }
+ category: turret
+ buildCostMultiplier: 2
+}
