@@ -1,14 +1,10 @@
 {
  type: CoreBlock
  name: Outpost
- description: A outpost which can collect the resources and transfer them to the core,but cannot get resource from the core.Send warns when under attack.
+ description: old functionality not available, now the Outpost is used for core purposes instead of collecting scrap.
  size: 2
- destructible: true
- solid: true
- health: 100
- insulated: true
- unloadable: false
- breakable: true
+ health: 4000
+ itemCapacity: 3500
  requirements: [
   solid-concrete/85
   graphite/25
@@ -16,7 +12,7 @@
   refined-iron/15
   steel/25
  ]
- buildVisibility: shown
+ unitType: trident
  category: effect
  research: junior-circuitboard-factory
 }

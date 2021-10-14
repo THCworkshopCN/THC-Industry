@@ -4,6 +4,8 @@
   description: Enter water here for high-leveled factories.
   health: 70
   size: 2
+  craftTime: 60,
+  liquidCapacity: 10,
   requirements:
   [
     junior-circuitboard/5
@@ -16,7 +18,10 @@
      usage: 0.1
      buffered: false
     }
-    liquid: water/0.1
+    liquid: {
+      liquid: water
+      amount: 1
+    }
   }
   craftTime: 1
   outputItem: quantum-state-water/1
