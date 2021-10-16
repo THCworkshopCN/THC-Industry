@@ -13,25 +13,22 @@
   graphite/8
   silicon/5
  ]
- rotatespeed: 20
- reload: 24
- range: 80
+ rotatespeed: 10
+ reloadTime: 60
+ range: 120
+ recoil: 1
+ shootSound: artillery
  shootType: {
   type: BasicBulletType
-  bulletSprite: thc-industry-energy-ball
-  lifetime: 20
+  sprite: thc-industry-energy-ball
+  lifetime: 30
   shots: 2
-  speed: 9
-  damage: 25
-  recoil: 0
-  knockback: 0
+  speed: 4
+  damage: 120
   status: shocked
-  statusDuration: 120
-  splashDamage: 10
-  splashDamageRadius: -3
+  statusDuration: 60
   frontColor: 98F5FF
   backColor: 94F5FF
-  shootSound: thruster
   reloadMultiplier: 2
  }
  category: turret

@@ -1,7 +1,7 @@
 {
   type: GenericCrafter
-  name: Material entering-Iron
-  description: Enter iron here for high-leveled factories.
+  name: Iron quantifier
+  description: quantifies iron
   health: 75
   size: 2
   requirements:
