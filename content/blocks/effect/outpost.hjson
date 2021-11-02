@@ -1,9 +1,9 @@
 {
  type: CoreBlock
  name: Outpost
- description: old functionality not available, now the Outpost is used for core purposes instead of collecting scrap.
+ description: An outpost core that can enable you to do something interesting.
  size: 2
- health: 4000
+ health: 2000
  itemCapacity: 3500
  requirements: [
   solid-concrete/85
