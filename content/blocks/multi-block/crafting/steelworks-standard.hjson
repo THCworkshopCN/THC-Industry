@@ -1,7 +1,7 @@
 {
   type: GenericSmelter
   name: Standard steelworks
-  description: Multi-block factory.Provides more steel.\n Needs to enter water.\n Needs to provide refined carbon and refined iron.\n This is the [red]first [orange]multi-block factory[]of THC Industry.Programed by[#66ccff]WinterUnderTheSnow[] on 2020.10.28.
+  description: "Multi-block factory.Provides more steel.\n Needs to enter water.\n Needs to provide refined carbon and refined iron.\n This is the [red]first [orange]multi-block factory[]of THC Industry.Programed by[#66ccff]WinterUnderTheSnow[] on 2020.10.28."
   health: 450
   size: 3
   requirements:
