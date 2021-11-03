@@ -1,0 +1,34 @@
+type: GenericCrafter
+name: Advance Uranium Refinery
+description: "Refine depleted uranium in a large batch, making it more active again."
+health: 750
+size: 3
+requirements:
+[
+    steel/75
+    uranium-238/25
+    solid-concrete/75
+    refined-iron/35
+    metaglass/250
+    graphite/110
+    silicon/75
+]
+consumes:
+{
+    items: {
+        items: [
+            depleted-uranium/12
+        ]
+    }
+    liquid: {
+        liquid: water
+        amount: 0.3
+    }
+    power: 3
+}
+craftTime: 120
+outputItem: uranium-238/5
+hasLiquid: true
+liquidCapacity: 250
+itemCapacity: 50
+research: uranium-refiner
