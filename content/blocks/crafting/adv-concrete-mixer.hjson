@@ -1,0 +1,35 @@
+type: LiquidConverter
+name: Concrete mixer
+//you can balace stuffs if you want to
+description: "Mix sand and iron together to make concrete, require large amount of extra water"
+health: 1250
+size: 3
+requirements:
+[
+  refined-iron/50
+  copper/65
+  junior-circuitboard/45
+  titanium/55
+  graphite/30
+]
+consumes:
+{
+  items: {
+    items: [
+      sand/10
+      iron/2
+    ]
+ }
+  liquid: {
+    liquid: water
+    amount: 0.4
+  }
+  power: 2.3
+}
+craftTime: 45
+outputLiquid: concrete/16
+hasItems: true
+category: crafting
+research: concrete-mixer
+buildCostMultiplier: 1.3
+hasPower: true
