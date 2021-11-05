@@ -2,7 +2,7 @@
   name: "THC Industry"
   author: "[#66ccff]THC Workshop CN. [cyan]uujuju"
   description: "V7 version of THC Industry. Created of pure boredom. \n[red]DO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
-  version: "0.4.7.21_legacy"
+  version: "0.4.8.0_dev_legacy"
   minGameVersion: "130"
   dependencies: []
 }
