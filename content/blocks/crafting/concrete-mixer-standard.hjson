@@ -1,16 +1,17 @@
 type: LiquidConverter
-name: Concrete mixer
-//you can balace stuffs if you want to
+name: Standard Concrete mixer
 description: "Mix sand and iron together to make concrete, require large amount of extra water"
-health: 1250
+health: 550
 size: 3
 requirements:
 [
   refined-iron/50
+  steel/50
   copper/65
-  junior-circuitboard/45
+  middle-rank-circuitboard/5
   titanium/55
   graphite/30
+  solid-concrete/150
 ]
 consumes:
 {
