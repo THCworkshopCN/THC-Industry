@@ -7,19 +7,21 @@
   requirements:
   [
     plank/5
-    copper/15
-    lead/25
-    graphite/45
-    silicon/25
-    steel/10
+    copper/150
+    lead/250
+    graphite/100
+    silicon/450
+    steel/50
+    refined-iron/100
+    junior-rank-circuitboard/15
   ]
   consumes:
   {
    items: {
     items: [
       junior-circuitboard/1
-      silicon/2
-      copper/1
+      silicon/20
+      copper/50
     ]
     optional: false
     booster: false
@@ -29,7 +31,7 @@
     buffered: false
    }
   }
-  craftTime: 120
+  craftTime: 1200
   outputItem: middle-rank-circuitboard/1
   hasItems: true
   flameColor: FFEB89FF
