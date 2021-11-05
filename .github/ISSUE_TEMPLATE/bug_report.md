@@ -36,3 +36,7 @@ E.G : v7 BE build 22180
 
 **Additional context**
 Add any other context about the problem here.
+
+Before submitting this,make sure that:
+[] I've took a brief look at other issues and made sure mine is not dupcliate.
+[] I'm not joking.
