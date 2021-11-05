@@ -6,7 +6,7 @@
   size: 1
   requirements:
   [
-    solid-concrete/6
+    solid-concrete/20
   ]
   category: defense
   research: copper-wall
