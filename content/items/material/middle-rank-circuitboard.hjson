@@ -1,6 +1,6 @@
 {
   name: Middle rank circuitboard
-  descrption: A middle rank circuitboard.About 1000 floating point arithmetic per second.
+  descrption: A middle rank circuitboard.
   color: BA3E31FF
   radioactivity: 0
   cost: 8

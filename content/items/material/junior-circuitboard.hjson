@@ -1,6 +1,6 @@
 {
   name: Junior circuitboard
-  descrption: A junior circuitboard.About 10 floating point arithmetic per second.
+  descrption: A junior circuitboard.
   color: 008B00
   radioactivity: 0
   cost: 10
