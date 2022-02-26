@@ -1,6 +1,6 @@
 {
 	type: flying
-	name: trident
+	name: Trident
 	description: A core unit with shield but no weapons.
 	health: 160
 	flying: true
@@ -11,7 +11,7 @@
     speed: 3.3
     rotateSpeed: 17
     accel: 0.1
-    itemCapacity: 50
+    itemCapacity: 45
     health: 170
     engineOffset: 6
     hitSize: 9

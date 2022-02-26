@@ -1,0 +1,40 @@
+{
+	type: mech
+	name: Forwarder
+	description: A ground mech with two integrated berkley turret.
+	health: 750
+    canBoost: false
+	flying: false
+    drag: 0.05
+    speed: 1.0
+    rotateSpeed: 17
+    accel: 0.1
+    itemCapacity: 30
+    health: 170
+    engineOffset: 6
+    hitSize: 15
+    rotateShooting: true
+    commandLimit: 4
+    ammoType: 900
+    weapons:[
+        {
+            name:"Berkley improved"
+            rotate: true
+            rotateSpeed: 11
+            rotateSpeed: 4.2
+            bullet: {
+                type: BasicBulletType
+                sprite: thc-industry-energy-ball
+                lifetime: 4
+                shots: 2
+                speed: 7
+                damage: 40
+                status: shocked
+                reloadMultiplier: 2
+                frontColor: 98F5FF
+                backColor: 94F5FF
+                statusDuration: 80
+            }
+        }
+    ]
+}
