@@ -24,7 +24,7 @@
   lifetime: 30
   shots: 2
   speed: 4
-  damage: 10
+  damage: 30
   status: shocked
   statusDuration: 180
   frontColor: 98F5FF
