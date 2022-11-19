@@ -21,7 +21,7 @@
  shootType: {
   type: BasicBulletType
   sprite: thc-industry-energy-ball
-  lifetime: 3
+  lifetime: 30
   shots: 2
   speed: 4
   damage: 40
