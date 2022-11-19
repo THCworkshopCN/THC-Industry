@@ -21,12 +21,12 @@
  shootType: {
   type: BasicBulletType
   sprite: thc-industry-energy-ball
-  lifetime: 30
+  lifetime: 3
   shots: 2
   speed: 4
-  damage: 120
+  damage: 40
   status: shocked
-  statusDuration: 60
+  statusDuration: 180
   frontColor: 98F5FF
   backColor: 94F5FF
   reloadMultiplier: 2

@@ -1,18 +1,9 @@
 {
  type: CoreBlock
  name: Outpost
- description: An outpost core that can enable you to do something interesting.
+ description: An outpost core that enables us to control the area.
  size: 2
  health: 2000
  itemCapacity: 3500
- requirements: [
-  solid-concrete/85
-  graphite/25
-  junior-circuitboard/1
-  refined-iron/15
-  steel/25
- ]
  unitType: trident
- category: effect
- research: junior-circuitboard-factory
 }
