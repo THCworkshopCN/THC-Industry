@@ -2,7 +2,7 @@
   type: Wall
   name: Large refined iron wall
   description: A wall made by refined iron.Build quicker than you imagine.Spans multiple tiles.
-  health: 2800
+  health: 3200
   size: 2
   requirements:
   [

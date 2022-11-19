@@ -2,7 +2,7 @@
   type: MendProjector
   name: Large wooden wall
   description: A cheap wooden wall.Quick self-repairing.Very weak.Immediate building.Spans multiple tiles.
-  health: 320
+  health: 360
   size: 2
   requirements:
   [

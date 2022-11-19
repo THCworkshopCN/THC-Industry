@@ -2,7 +2,7 @@
   type: Wall
   name: Large steel wall
   description: A wall made by steel.Very strong.It takes a lot of time to build it.Spans multiple tiles.
-  health: 4200
+  health: 4800
   size: 2
   requirements:
   [

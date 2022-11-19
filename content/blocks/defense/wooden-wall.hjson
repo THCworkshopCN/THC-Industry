@@ -2,7 +2,7 @@
   type: MendProjector
   name: Wooden wall
   description: A cheap wooden wall.Quick self-repairing.Very weak.Immediate building.
-  health: 80
+  health: 90
   size: 1
   requirements:
   [

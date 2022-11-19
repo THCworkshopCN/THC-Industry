@@ -2,7 +2,7 @@
   type: Wall
   name: Large concrete wall
   description: A wall made by concrete.Not very strong.Quick-building.Spans multiple tiles.
-  health: 1400
+  health: 2000
   size: 2
   requirements:
   [

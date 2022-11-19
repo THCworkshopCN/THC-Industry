@@ -4,6 +4,7 @@
  description: An outpost core that enables us to control the area.
  size: 2
  health: 2000
+ category: effect
  itemCapacity: 3500
  unitType: trident
 }

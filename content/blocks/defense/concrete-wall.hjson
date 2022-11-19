@@ -2,7 +2,7 @@
   type: Wall
   name: Concrete wall
   description: A wall made by concrete.Not very strong.Quick-building.
-  health: 300
+  health: 500
   size: 1
   requirements:
   [

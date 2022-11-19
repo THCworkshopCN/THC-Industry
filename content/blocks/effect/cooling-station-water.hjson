@@ -2,7 +2,7 @@
   type: GenericCrafter
   name: Cooling station-Water
   description: Enter water here for high-leveled factories.
-  health: 70
+  health: 75
   size: 2
   craftTime: 60,
   liquidCapacity: 10,
